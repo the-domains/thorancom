@@ -1,10 +1,9 @@
 ---
-datePublished: '2016-08-18T11:36:25.408Z'
+datePublished: '2016-08-18T12:27:23.892Z'
 sourcePath: _posts/2016-04-15-updating-las-historic-hollywood-roosevelt-hotel.md
 inFeed: true
-isBasedOnUrl: 'http://www.coolhunting.com/design/updating-the-hollywood-roosevelt-hotel-la'
 authors: []
-hasPage: false
+hasPage: true
 keywords:
   - modern
   - hotel
@@ -31,7 +30,7 @@ related:
 author:
   - name: ''
     url: ''
-dateModified: '2016-08-18T11:36:23.638Z'
+dateModified: '2016-08-18T12:27:22.824Z'
 title: Updating LA's Historic Hollywood Roosevelt Hotel
 app_links: []
 publisher:
@@ -49,6 +48,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: updating-las-historic-hollywood-roosevelt-hotel/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
