@@ -1,4 +1,3 @@
-layout_spectrum: 0.29330762661993504
 typography_spectrum: 0.3794676174875349
 color:
   brandStrength: 0.6645581366028637
@@ -6,9 +5,11 @@ color:
   saturation: 0.31560872681438923
   rhythmicContrast: 0.48626834410242736
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#88A825'
+    - '#35203B'
+    - '#911146'
+    - '#CF4A30'
+    - '#ED8C2B'
+layout_spectrum: 0.29330762661993504
 name: thoran.com
+title: Here we are...
