@@ -1,0 +1,14 @@
+layout_spectrum: 0.29330762661993504
+typography_spectrum: 0.3794676174875349
+color:
+  brandStrength: 0.6645581366028637
+  lightness: 0.9549865303561091
+  saturation: 0.31560872681438923
+  rhythmicContrast: 0.48626834410242736
+  brandColors:
+    - '#88A825'
+    - '#35203B'
+    - '#911146'
+    - '#CF4A30'
+    - '#ED8C2B'
+name: thoran.com
