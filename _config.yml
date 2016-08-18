@@ -12,4 +12,8 @@ color:
     - '#ED8C2B'
 layout_spectrum: 0.29330762661993504
 name: thoran.com
+navigation:
+  - name: Updating LA's Historic Hollywood Roosevelt Hotel
+    id: 5399efa0-5832-4b68-96b8-12cd69160d02
+    type: content
 title: Here we are...
